@@ -4,19 +4,15 @@ Estou explorando essa área que tanto gosto, sempre aprendendo e desempenhando m
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" width="245" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 ```js
-
-
 import Developer from 'ButterFlly';
 class SobreMim extends Developer {
   nome     = 'Hugo Fachini';
   area    = 'Jr. Developer Fullstack, Analista de Sistemas';
   trabalho  = 'Legacy Roleplay - Dev Team';
   local = 'Terra';
-
-
 }
 ```
 
