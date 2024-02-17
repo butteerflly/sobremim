@@ -45,4 +45,4 @@ class SobreMim extends Developer {
   <a href="https://discordapp.com/users/.butterflly" target="_blank"><img src="https://img.shields.io/badge/-Discord-%2332405F?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
 
-![Snake animation](https://github.com/MatIketani/MatIketani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/butteerflly/butteerflly/blob/output/github-contribution-grid-snake.svg)
