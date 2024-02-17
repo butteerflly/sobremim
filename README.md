@@ -1,6 +1,6 @@
 ### E aí, devs 👋
 
-Gosto de criar ótimos softwares, aplicações web e ajudar outras pessoas a fazer o mesmo.
+Estou explorando essa área que tanto gosto, sempre aprendendo e desempenhando meu máximo!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
