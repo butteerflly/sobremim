@@ -42,7 +42,7 @@ class SobreMim extends Developer {
 ### Onde me encontrar:
  
 <div> 
-  <a href="https://instagram.com/hugo.fni" target="_blank"><img src="https://img.shields.io/badge/-Discord-%2332405F?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/.butterflly" target="_blank"><img src="https://img.shields.io/badge/-Discord-%2332405F?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
 
 ![Snake animation](https://github.com/MatIketani/MatIketani/blob/output/github-contribution-grid-snake.svg)
