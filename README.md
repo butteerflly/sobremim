@@ -12,7 +12,7 @@ class SobreMim extends Developer {
   nome     = 'Hugo Fachini';
   area    = 'Jr. Developer Fullstack, Analista de Sistemas';
   trabalho  = 'Legacy Roleplay - Dev Team';
-  local = 'Descubra IC';
+  local = 'Casa';
 }
 ```
 
